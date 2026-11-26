@@ -6,9 +6,11 @@
 
 ブラウザで以下のURLを開くと起動できます。
 
-[慣性の法則ラボを起動する](https://inertia-lab-galileo-k.earlyjewel8.chatgpt.site)
+[慣性の法則ラボを起動する](https://keizoliberalartslab.github.io/P002_LawInertia/)
 
-現在は本人用の非公開版です。アクセスには、公開先の所有者のChatGPTアカウントでのログインが必要です。
+配布・共有用URL：https://keizoliberalartslab.github.io/P002_LawInertia/
+
+インストールやGitHub・ChatGPTへのログインは不要です。ほかの方に使ってもらう場合は、このURLを共有してください。
 
 ### オフラインで使う場合
 
