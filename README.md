@@ -1,4 +1,4 @@
-# 慣性ラボ — ガリレオの思考実験
+# 慣性の法則ラボ — ガリレオの思考実験
 
 力学学習シリーズ第2弾。左右の斜面と滑らかな接続部を使って、慣性の法則を学ぶブラウザアプリです。
 
@@ -6,7 +6,7 @@
 
 ブラウザで以下のURLを開くと起動できます。
 
-[慣性ラボを起動する](https://inertia-lab-galileo-k.earlyjewel8.chatgpt.site)
+[慣性の法則ラボを起動する](https://inertia-lab-galileo-k.earlyjewel8.chatgpt.site)
 
 現在は本人用の非公開版です。アクセスには、公開先の所有者のChatGPTアカウントでのログインが必要です。
 
